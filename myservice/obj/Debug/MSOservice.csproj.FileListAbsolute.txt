@@ -1,0 +1,8 @@
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\MSOservice.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\MSOservice.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\MSOservice.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\MSOservice.MSOservice.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\MSOservice.ProjectInstaller.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\MSOservice.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\MSOservice.pdb

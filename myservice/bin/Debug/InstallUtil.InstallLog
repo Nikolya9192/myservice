@@ -1,0 +1,146 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe assembly's progress.
+The file is located at c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe assembly's progress.
+The file is located at c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe assembly's progress.
+The file is located at c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe assembly's progress.
+The file is located at c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe assembly's progress.
+The file is located at c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe assembly's progress.
+The file is located at c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\WINDOWS\system32\MSOservice.exe assembly's progress.
+The file is located at c:\WINDOWS\system32\MSOservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

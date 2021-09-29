@@ -1,0 +1,39 @@
+﻿Installing assembly 'c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog
+   assemblypath = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog
+   assemblypath = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe
+Installing assembly 'c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog
+   assemblypath = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe
+Installing service MyService...
+Creating EventLog source MyService in log Application...
+Rolling back assembly 'c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog
+   assemblypath = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe
+Restoring event log to previous state for source MyService.
+Installing assembly 'c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog
+   assemblypath = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.InstallLog
+   assemblypath = c:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe

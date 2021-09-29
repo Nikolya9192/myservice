@@ -1,0 +1,8 @@
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\bin\Debug\myservice.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\myservice.MyService.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\myservice.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\myservice.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\myservice.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2008\Projects\myservice\myservice\obj\Debug\myservice.ProjectInstaller.resources
